@@ -1,0 +1,224 @@
+div#content {
+			
+			width: 1130px;
+			margin: 0 auto;
+			padding: 10px;
+			border: 1px solid #ccc;
+			height: 2100px;
+}
+nav ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	background-color: white;
+	overflow: hidden;
+}
+li a {
+	display: block;
+	color: #666;
+	padding: 14px 16px;
+	text-decoration: none;
+	float: right;
+	margin-top: 8px;
+}
+a:hover:not(.active) {
+	background-color:  #B8860B;
+}
+.active {
+	background-color:  #B8860B;
+}
+h1 {
+	position: relative;
+	float: left;
+	color:  #B8860B;
+	left: 20px;
+	margin-top: 20px;
+}
+p {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+div#first {
+	
+	overflow: hidden;
+	height: 300px;
+	width : 1140px;
+	margin-left : 0px;
+	
+	
+}
+div#second {
+	position: relative;
+	height: 150px;
+	color :  #B8860B;
+	
+}
+div#main {
+	height: 350px;
+	
+	width: 1020px;
+	margin-left: 50px;
+}
+div#third {
+	position: absolute;
+	height: 350px;
+	
+	width: 230px;
+	float: left;
+}
+div#third3 {
+	color: white;
+	background-color: #B8860B;
+	height: 30px;
+	width: 100px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 5px;
+}
+p#one1 {
+	margin-top: 8px;
+}
+div#fourth {
+	position: absolute;
+	height: 350px;
+	
+	width: 230px;
+	left: 420px;
+}
+div#fourth4 {
+	color: white;
+	background-color: #B8860B;
+	height: 30px;
+	width: 120px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 5px;
+}
+div#fifth {
+	position: absolute;
+	height: 350px;
+	
+	width: 230px;
+	left: 690px;
+}
+p#two2 {
+	margin-top: 8px;
+}
+div#sixth {
+	position: absolute;
+	height: 350px;
+	width: 230px;
+	left: 960px;
+	
+}
+h3 {
+	color: #B8860B;
+}
+p#one {
+	top: 160px;
+	text-align: left;
+}
+div#main1 {
+	height: 650px;
+	
+	width: 1020px;
+	margin-left: 50px;
+}
+div#seventh {
+	position: absolute;
+	height: 650px;
+	
+	width: 480px;
+	float: left;
+}
+p#three {
+	text-align: left;
+}
+div#eighth {
+	position: absolute;
+	height: 650px;
+	
+	width: 480px;
+	left: 700px;
+}
+div#eighth1 {
+	height: 240px;
+	
+}
+.left{
+float:left;
+}
+.right{
+	float: right;
+}
+div#eighth2 {
+	height: 405px;
+	
+}
+h6 {
+	color: #F5F5F5;
+	margin-top: 15px;
+}
+div#main2 {
+	height: 504px;
+	
+	background-color: black;
+	width: 1110px;
+	margin-right:  10px;	
+}
+div#nine {
+	margin-left: 50px;
+	position: absolute;
+	height: 584px;
+	
+	width: 480px;
+}
+div#nine1 {
+	position: absolute;
+	height: 584px;
+	
+	width: 500px;
+	left: 520px;
+}
+u {
+	color: skyblue;
+}
+u#one {
+	color: green;
+}
+div#proin {
+	width: 260px;
+	height: 250px;
+	
+	text-align: center;
+	background-color: white;
+}
+p#point {
+	margin-top: 10px;
+}
+div#fusce {
+	height: 180px;
+	width: 280px;
+	
+	overflow: hidden;
+}
+p#non {
+	margin-top: 8px;
+}
+.column {
+	float:left;
+	position: absolute;
+}
+.column1 {
+	float: left;
+	position: absolute;
+	margin-left: 85px;
+}
+.column2 {
+	float: left;
+	position: absolute;
+	margin-left: 170px;
+}
+
